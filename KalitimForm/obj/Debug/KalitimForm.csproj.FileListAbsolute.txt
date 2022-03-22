@@ -1,0 +1,11 @@
+C:\Users\mfati\source\repos\KalitimForm\KalitimForm\bin\Debug\KalitimForm.exe.config
+C:\Users\mfati\source\repos\KalitimForm\KalitimForm\bin\Debug\KalitimForm.exe
+C:\Users\mfati\source\repos\KalitimForm\KalitimForm\bin\Debug\KalitimForm.pdb
+C:\Users\mfati\source\repos\KalitimForm\KalitimForm\obj\Debug\KalitimForm.csproj.AssemblyReference.cache
+C:\Users\mfati\source\repos\KalitimForm\KalitimForm\obj\Debug\KalitimForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\mfati\source\repos\KalitimForm\KalitimForm\obj\Debug\KalitimForm.Form1.resources
+C:\Users\mfati\source\repos\KalitimForm\KalitimForm\obj\Debug\KalitimForm.Properties.Resources.resources
+C:\Users\mfati\source\repos\KalitimForm\KalitimForm\obj\Debug\KalitimForm.csproj.GenerateResource.cache
+C:\Users\mfati\source\repos\KalitimForm\KalitimForm\obj\Debug\KalitimForm.csproj.CoreCompileInputs.cache
+C:\Users\mfati\source\repos\KalitimForm\KalitimForm\obj\Debug\KalitimForm.exe
+C:\Users\mfati\source\repos\KalitimForm\KalitimForm\obj\Debug\KalitimForm.pdb
